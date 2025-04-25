@@ -1,0 +1,7 @@
+{
+  "Table": [
+    {"amc_code": 400001, "srno": 21, "name": "Mr. A", "desig": "Fund Manager", "flag": "A"},
+    {"amc_code": 400001, "srno": 27, "name": "Mr. Sandeep Jain", "desig": "Senior Analyst & Fund Manager", "flag": "A"}
+  ]
+}
+

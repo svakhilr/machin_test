@@ -1,0 +1,6 @@
+{
+ "Amc_mst_new": ["amc_code"],
+  "Amc_keypersons": ["amc_code", "srno"],
+  "DailyFundmanager": ["date", "amccode", "schemecode"]
+}
+
